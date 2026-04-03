@@ -1,4 +1,4 @@
-# 📋 Task - Full-Stack Task Management Application
+#  Task - Full-Stack Task Management Application
 
 A modern, responsive, and robust full-stack web application for managing daily tasks. Built with the **MERN stack** (MongoDB, Express, React, Node.js) and styled with the latest **Tailwind CSS v4** via Vite.
 
@@ -19,10 +19,10 @@ This project was developed with a strong focus on clean architecture, component-
 ---
 
 ##  Screenshots
-<img width="1901" height="462" alt="Screenshot 2026-04-03 224720" src="https://github.com/user-attachments/assets/0021eb54-f405-4710-b60a-6b48131984ca" />
-<img width="1901" height="430" alt="Screenshot 2026-04-03 224710" src="https://github.com/user-attachments/assets/ed35f8f0-a69c-401a-bb2a-6c722c4e6fe9" />
 <img width="1899" height="619" alt="Screenshot 2026-04-03 224702" src="https://github.com/user-attachments/assets/b72040d1-c7ec-48bf-9431-b886f7349a97" />
 <img width="1897" height="804" alt="Screenshot 2026-04-03 224652" src="https://github.com/user-attachments/assets/0375a475-e5f6-41f8-a629-a08ff93f9a28" />
+<img width="1901" height="462" alt="Screenshot 2026-04-03 224720" src="https://github.com/user-attachments/assets/0021eb54-f405-4710-b60a-6b48131984ca" />
+<img width="1901" height="430" alt="Screenshot 2026-04-03 224710" src="https://github.com/user-attachments/assets/ed35f8f0-a69c-401a-bb2a-6c722c4e6fe9" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-03 230641" src="https://github.com/user-attachments/assets/1fef7ed2-d46e-430b-bba0-92b68bd9d020" />
 
 
