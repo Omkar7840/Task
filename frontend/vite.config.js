@@ -7,4 +7,9 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  // Add this new test block
+  test: {
+    environment: 'jsdom',
+    globals: true,
+  }
 })
